@@ -5,3 +5,12 @@ Die öffnende Klammer kommt bei Klassen und Methoden in die nächste Zeile. Bei 
 
 ## Keywords
 Die Konstanten `null`, `true` und `false` werden kleingeschrieben.
+
+> https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-2-coding-style-guide.md
+
+# Coding-Styleguide SQL
+
+## Case
+Tabellen und Spalten werden immer im Singular angegeben: `user` statt `users`.
+
+> https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/
