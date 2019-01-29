@@ -10,6 +10,11 @@ Die Konstanten `null`, `true` und `false` werden kleingeschrieben.
 
 # Coding-Styleguide SQL
 
+## Keys
+Eine einzelne Spalte als Primärschlüssel wird `id` genannt. Prefixing mit dem Tabellennamen (`user_id`) ist redundant.
+
+Fremdschlüssel werden mit dem Tabellennamen geprefixed: `user_id`.
+
 ## Case
 Tabellen und Spalten werden immer im Singular angegeben: `user` statt `users`.
 
