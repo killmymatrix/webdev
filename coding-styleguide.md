@@ -19,3 +19,4 @@ Fremdschlüssel werden mit dem Tabellennamen geprefixed: `user_id`.
 Tabellen und Spalten werden immer im Singular angegeben: `user` statt `users`.
 
 > https://launchbylunch.com/posts/2014/Feb/16/sql-naming-conventions/
+> https://www.xaprb.com/blog/2008/10/26/the-power-of-a-good-sql-naming-convention/ (alternativer Ansatz, überlegenswert)
